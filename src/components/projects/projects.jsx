@@ -6,7 +6,7 @@ function projects() {
   return (
     <>
       <div>
-        <h1>Heading for testing</h1>
+        <h1>Projects</h1>
       </div>
     </>
   )

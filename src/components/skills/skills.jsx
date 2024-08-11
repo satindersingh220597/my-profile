@@ -6,7 +6,7 @@ function skills() {
   return (
     <>
       <div>
-        <h1>Heading for testing</h1>
+        <h1>Skills</h1>
       </div>
     </>
   )

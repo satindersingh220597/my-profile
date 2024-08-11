@@ -7,7 +7,7 @@ function landing_section() {
   return (
    
       <div>
-        Heading for testing
+        <h1>Landing page</h1>
       </div>
     
   )
