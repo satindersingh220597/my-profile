@@ -1,15 +1,20 @@
 
 import './App.css'
+import Landing_section from "./components/landing_section/landing_section";
+import Projects from './components/projects/projects';
+import Skills from './components/skills/skills';
+import Footer from './components/footer/footer';
 
 function App() {
 
 
   return (
     <>
-      <div>
-        <h1>Heading for testing</h1>
-      </div>
-    </>
+      <Landing_section />
+      <Projects/>
+      <Skills/>
+      <Footer/>
+    </> 
   )
 }
 
