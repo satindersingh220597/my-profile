@@ -1,7 +1,19 @@
+.landing{
+    margin:40px 165px;
+    padding: 0px;
+}
+
 .header{
     display: flex;
     justify-content: space-between;
 }
-.icons{
-    padding: 0px 10px;
+.logo-name{
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: var(--main-font);
+    color: white;
+}
+.socialmedialinks{
+    padding-right: 10px;
 }

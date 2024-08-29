@@ -11,8 +11,8 @@ function App() {
   return (
     <>
       <Landing_section />
-      <Projects/>
       <Skills/>
+      <Projects/>
       <Footer/>
     </> 
   )

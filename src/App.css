@@ -16,10 +16,7 @@
   /* font-weight: <weight>;
   font-style: normal; 
 } */
-#root{
-  margin:40px 165px;
-  padding: 0px;
-}
+
 body{
   background-color: var(--black);
  
