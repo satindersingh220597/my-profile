@@ -1,0 +1,45 @@
+.projects{
+    margin: 40px 139px 165px 165px;
+}
+.projectheading{
+    display: flex;
+    justify-content: space-between;
+}
+.project{
+font-size: 48px;
+font-family: var(--main-font);
+}
+.contactme{
+    color: white;
+    font-size: 16px;
+    border-bottom: 1px solid white;
+    padding: 5px 0px;
+    font-family: var(--main-font);
+}
+.row{
+    padding-top:80px;
+    padding-bottom: 69px;
+    display: flex;;
+}
+.column1{
+    width: 100%;
+    padding-right: 30px;
+}
+.column2{
+    width: 100%;
+   
+}
+
+.projectimage{
+    width: 100%;
+}
+.title{
+    color:white;
+    padding: 20px 0px 7px 0px;
+}
+.technology{
+    color: white;
+}
+.tech{
+    padding-right: 18px;
+}

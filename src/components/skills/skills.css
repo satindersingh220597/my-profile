@@ -22,3 +22,11 @@
    font-family: var(--main-font);
    padding-top:14px;
 }
+
+.oval-img{
+   display: flex;
+   justify-content: end;
+}
+.ovalimg{
+  margin: -80px -165px 0px 0px;
+}

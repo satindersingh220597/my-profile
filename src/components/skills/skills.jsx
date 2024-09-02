@@ -35,7 +35,9 @@ function skills() {
             <p className='experience'>2 Years Experience</p>
           </div>
         </div>
-        <img src={oval} />
+        <div className='oval-img'>
+        <img src={oval} className='ovalimg' />
+        </div>
       </div>
     </>
   )

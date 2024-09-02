@@ -2,6 +2,8 @@
 import './landing_section.css'
 import gitgub from '../../assets/akar-icons_github-fill.svg'
 import linkedin from '../../assets/LinkedIn.svg'
+import oval from '../../assets/Group 26 full.png'
+import profile from '../../assets/image-removebg-preview(4).png'
 
 function landing_section() {
 
@@ -16,6 +18,22 @@ function landing_section() {
             <a href='#' className='socialmedialinks'><img src={gitgub} alt='github'/></a>
            <a href='#'  className='socialmedialinks'><img src={linkedin} alt='linkedin'/></a>             
           </div>
+        </div>
+        <div className='container'>
+          <div className='oval-image'>
+            <img src={oval} className='oval'></img>
+          </div>
+          <div className='greeting'>
+            <h1 className='landig-text'>Nice to meet you!</h1>
+            <h1  className='landig-text'>i'm Satinder Singh.</h1>
+            <p className='landingcontent'>Based in the India, I’m a front-end developer <br></br>passionate about building accessible web apps <br></br>that users love.</p>
+          </div>
+          <div className='button-landing'>
+               <input type='button' value='CONTACT ME' className='input-button-landing' />
+              </div>
+              <div className='profile-img'>
+                <img src={profile}></img>
+              </div>
         </div>
       </div>
     
