@@ -13,6 +13,7 @@ function landing_section() {
       <div className='landing'>
         <div className='header'> 
           <a href='#' className='logo-name'><span>Satinder Singh</span></a> 
+          
           <div className='socialmediaicon'>
 
             <a href='#' className='socialmedialinks'><img src={gitgub} alt='github'/></a>
@@ -27,12 +28,11 @@ function landing_section() {
             <h1 className='landig-text'>Nice to meet you!</h1>
             <h1  className='landig-text'>i'm Satinder Singh.</h1>
             <p className='landingcontent'>Based in the India, I’m a front-end developer <br></br>passionate about building accessible web apps <br></br>that users love.</p>
+            <input type='button' value='CONTACT ME' className='input-button-landing' />
           </div>
-          <div className='button-landing'>
-               <input type='button' value='CONTACT ME' className='input-button-landing' />
-              </div>
+          
               <div className='profile-img'>
-                <img src={profile}></img>
+                <img src={profile} className='profile-image'></img>
               </div>
         </div>
       </div>

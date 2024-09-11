@@ -6,3 +6,7 @@ export default defineConfig({
   plugins: [react()],
   base: '/my-profile/'
 })
+
+
+
+

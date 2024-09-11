@@ -44,3 +44,18 @@
 .oval{
     margin:0px 0px -95px 0px;
 }
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 0px 100px 0px;
+}
+
+.profile-img{
+    width:30%;
+    height: 70%;
+}
+.profile-image{
+    width:100%;
+    height: 100%;
+}
