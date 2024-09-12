@@ -1,0 +1,61 @@
+.landing{
+    margin:40px 165px;
+    padding: 0px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.logo-name{
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: var(--main-font);
+    color: white;
+}
+.socialmedialinks{
+    padding-right: 10px;
+}
+
+.landig-text{
+    font-size: 88px;
+    color: white;
+}
+.landingcontent{
+    font-size: 18px;
+    font-family: var(--main-font);
+    color: white;
+    padding-top: 43px;
+    line-height: 28px;
+}
+.input-button-landing{
+    color:white;
+    background-color: #242424;
+    border: none;
+    border-bottom: 1px solid white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 0px;
+    margin:66px  0px 100px 0px;
+    
+    font-family: var(--main-font);
+}
+.oval{
+    margin:0px 0px -95px 0px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 0px 100px 0px;
+}
+/* test */
+.profile-img{
+    width:30%;
+    height: 70%;
+}
+.profile-image{
+    width:100%;
+    height: 100%;
+}
